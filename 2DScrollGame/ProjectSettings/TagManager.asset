@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - Floor
+  - Enemy
+  - Invisible_wall
+  - Boss
+  - defense
+  - bat
+  - destroyarea
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - red button
+  - player
+  - orc
+  - bat
+  - deadbat
+  - boss
+  - arrow
+  - bossarrow
+  - deadzone
+  - Meteor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3987393525
+    locked: 0
+  - name: Button
+    uniqueID: 858761819
+    locked: 0
+  - name: Arrow
+    uniqueID: 1765417469
+    locked: 0
+  - name: Floor
+    uniqueID: 392787235
+    locked: 0
+  - name: boss
+    uniqueID: 3501177449
+    locked: 0
+  - name: Enemy
+    uniqueID: 2060533039
+    locked: 0
+  - name: MeteorTerrain
+    uniqueID: 1191106953
+    locked: 0
+  - name: Fence
+    uniqueID: 1433848373
+    locked: 0
